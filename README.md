@@ -6,7 +6,7 @@
 Checkout this repo, install dependencies, then start the gulp process with the following:
 ```
 git clone https://github.com/bhavinsen/React-Native-live-stream.git
-cd ReactNativeLiveStream
+cd React-Native-live-stream
 npm install
 react-native run-android for android
 For run in IOS device
